@@ -22,6 +22,8 @@ public class ModItemGroups {
                         //blocks can be added here too, this is just to follow the tutorial
 
                             entries.add(ModItems.CHISEL);
+                            entries.add(ModItems.CAULIFLOWER);
+                            entries.add(ModItems.STARLIGHT_ASHES);
                     })
                     .build());
 

@@ -12,5 +12,15 @@
   "block.tutorialmod.magic_block": "Magic Block",
 
   "itemgroup.tutorialmod.pink_garnet_items": "Pink Garnet Items",
-  "itemgroup.tutorialmod.pink_garnet_blocks": "Pink Garnet Blocks"
+  "itemgroup.tutorialmod.pink_garnet_blocks": "Pink Garnet Blocks",
+
+  "item.tutorialmod.cauliflower": "Cauliflower",
+  "item.tutorialmod.starlight_ashes": "Starlight Ashes",
+
+  "tooltip.tutorialmod.magic_block.tooltip": "§9Magical§r things happen when Pink Garnets touch the top of this block",
+
+  "tooltip.tutorialmod.chisel.shift_down": "Lol got'em",
+  "tooltip.tutorialmod.chisel": "Press §9Shift§r for more info!",
+
+  "tooltip.tutorialmod.cauliflower.tooltip": "Yummers :)"
 }

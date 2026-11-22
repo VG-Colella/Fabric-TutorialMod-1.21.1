@@ -6,6 +6,7 @@ import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.minecraft.util.Identifier;
 
 import net.vcol.tutorialmod.block.ModBlocks;
+import net.vcol.tutorialmod.component.ModDataComponentTypes;
 import net.vcol.tutorialmod.item.ModItemGroups;
 import net.vcol.tutorialmod.item.ModItems;
 import org.slf4j.Logger;
@@ -25,6 +26,8 @@ public class TutorialMod implements ModInitializer {
 
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+
+		ModDataComponentTypes.registerDataComponentTypes();
 
 		FuelRegistry.INSTANCE.add(ModItems.STARLIGHT_ASHES, 600);
 	}
